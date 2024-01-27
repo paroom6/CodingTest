@@ -1,0 +1,14 @@
+package codingTest.ct.week01;
+
+public class Ex0114 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String str = "Good Morning";
+		System.out.println("charAt : " + str.charAt(7));
+		System.out.println("startsWith : " + str.startsWith("good"));
+		System.out.println("endsWith : " + str.endsWith("ng"));
+		
+	}
+
+}
