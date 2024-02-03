@@ -1,0 +1,6 @@
+package codingTest.ct.week01;
+
+public class Radio implements RemoteControl{
+
+
+}

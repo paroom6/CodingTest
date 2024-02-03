@@ -1,0 +1,5 @@
+package codingTest.ct.week01;
+
+public interface RemoteControl {
+
+}

@@ -3,4 +3,9 @@
     <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="float"/>
+    <fullyQualifiedTypeName name="codingTest.ct.week01.RemoteControl"/>
+    <fullyQualifiedTypeName name="codingTest.ct.week01.RemoteControlExample"/>
+    <fullyQualifiedTypeName name="codingTest.ct.week01.Television"/>
+    <fullyQualifiedTypeName name="codingTest.ct.week01.Radio"/>
 </qualifiedTypeNameHistroy>
