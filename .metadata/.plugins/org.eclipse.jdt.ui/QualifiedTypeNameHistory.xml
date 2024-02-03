@@ -2,10 +2,18 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="float"/>
     <fullyQualifiedTypeName name="codingTest.ct.week01.RemoteControl"/>
     <fullyQualifiedTypeName name="codingTest.ct.week01.RemoteControlExample"/>
     <fullyQualifiedTypeName name="codingTest.ct.week01.Television"/>
     <fullyQualifiedTypeName name="codingTest.ct.week01.Radio"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="codingTest.ct.week02.MaxMin"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="codingTest.ct.week02.Board"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>

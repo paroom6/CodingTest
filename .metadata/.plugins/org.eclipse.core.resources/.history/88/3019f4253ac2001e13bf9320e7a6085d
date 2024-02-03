@@ -1,0 +1,17 @@
+package codingTest.ct.week02;
+
+public class Ex0205 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+class Board {
+	private String ttl;
+	private String cn;
+	private String writer;
+	
+}

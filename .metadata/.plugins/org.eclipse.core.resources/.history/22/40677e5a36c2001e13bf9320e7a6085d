@@ -1,0 +1,20 @@
+package codingTest.ct.week02;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Ex0203 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<String> list = new ArrayList<>();
+		list.add("A");
+		System.out.println(list.toString() + "," + list.size());
+		list.add("B");
+		list.add("D");
+		System.out.println(list.toString() + "," + list.size());
+		list.add(2,"C");
+		System.out.println(list.toString() + "," + list.size());
+	}
+
+}
