@@ -16,7 +16,7 @@ public class Ex0114 {
 		System.out.println("replace : " +str.replace("o", "a"));
 		System.out.println("replaceAll : " +str.replaceAll("Good", "a"));
 		System.out.println("replaceAll : " +str.replaceAll("[Good]", "a"));
-		
+		 
 		
 		
 	}
