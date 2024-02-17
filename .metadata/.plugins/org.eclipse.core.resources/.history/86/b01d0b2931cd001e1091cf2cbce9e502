@@ -1,0 +1,16 @@
+package codingTest.ct.week02;
+
+public class TryCode {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String polynomial =  "3x + 7 + x";
+		String[] arr = polynomial.split(" +");
+		for(String str : arr) {
+			if(str.contains("x")) {
+				System.out.println(str);
+			}
+		}
+	}
+
+}

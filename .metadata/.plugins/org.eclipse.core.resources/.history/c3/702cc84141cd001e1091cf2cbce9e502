@@ -1,0 +1,13 @@
+package codingTest.ct.week03;
+
+import java.util.Scanner;
+
+public class Ex0302 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		
+	}
+
+}

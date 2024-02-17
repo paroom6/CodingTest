@@ -1,0 +1,85 @@
+package codingTest.ct.week03;
+
+import java.util.Scanner;
+
+
+
+public class Ex0302 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		ArrayQueue queue = new ArrayQueue(5);
+		while(true) {
+			System.out.println(String.format("현재 수: %d /%d", args));
+			System.out.print("1. enq(add), 2. deq(poll), 3. peek, 4. poll, 5. clear, 6. dump, 0. 종료(break) ");
+			
+			int num = sc.nextInt();
+			
+		}
+	}
+
+}
+
+class ArrayQueue {
+	private int max; 	//큐의 최대용량
+	private int front;	//첫번째 요소의 커서
+	private int rear; 	//마지막 요소의 커서
+	private int cnt; 	//현재데이터의 수
+	private int[] queue;//큐
+	
+	public ArrayQueue(int capacity) {
+		this.max = capacity;
+		//뒤에서 앞으로 대입하기에 가능하다.
+		this.cnt = this.front = this.rear = 0;
+		
+		try {
+			queue = new int[max];
+		} catch(Exception e) {
+			max = 0;
+		}
+	}
+	
+	public int add(int num) {
+		
+		return num;
+	}
+	
+	public int peek() {
+		
+		return 0;
+	}
+	
+	public int poll() {
+		
+		return 0;
+	}
+	
+	public void clear() {
+		
+	}
+	
+	public boolean isEmpty() {
+		
+		return false;
+	}
+	
+	public int capacity() {
+		
+		return 0;
+	}
+	
+	public int isFull() {
+		
+		return 0;
+	}
+	
+	public int size() {
+		
+		return 0;
+	}
+	
+	public void dump() {
+		
+	}
+}
