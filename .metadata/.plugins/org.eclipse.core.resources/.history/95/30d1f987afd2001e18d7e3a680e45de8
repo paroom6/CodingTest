@@ -1,0 +1,16 @@
+package codingTest.ct.week04;
+
+public class Ex0402 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+class ArrayStack {
+	private int top;
+	private int capacity;
+	private Object stack[];
+}

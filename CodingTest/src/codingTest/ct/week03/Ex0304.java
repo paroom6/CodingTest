@@ -28,7 +28,7 @@ public class Ex0304 {
 					queue.addLast(queue.removeLast());
 					c++;
 				}
-				queue.pollFirst()
+				queue.pollFirst();
 			}else {
 				while (t != queue.getFirst()) {
 					queue.addFirst(queue.removeLast());

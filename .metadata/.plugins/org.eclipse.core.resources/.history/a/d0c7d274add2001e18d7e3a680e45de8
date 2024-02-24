@@ -1,0 +1,19 @@
+package codingTest.ct.week04;
+
+import java.util.Stack;
+
+public class Ex0401 {
+
+	public static void main(String[] args) {
+		Stack<Integer> stack = new Stack<Integer>();//후입후출이다.
+		stack.push(1);
+		System.out.println(stack.toString());
+		stack.push(2);
+		stack.push(3);
+		stack.push(4);
+		stack.pop();
+		System.out.println(stack.toString());
+		
+	}
+
+}
