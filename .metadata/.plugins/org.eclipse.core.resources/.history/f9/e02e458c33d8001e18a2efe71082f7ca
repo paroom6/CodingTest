@@ -1,0 +1,12 @@
+package codingTest.ct.week05;
+
+import java.util.TreeSet;
+
+public class Ex0501 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		TreeSet<Integer> scores = new TreeSet<Integer>();
+	}
+
+}

@@ -1,0 +1,14 @@
+package codingTest.ct.week05;
+
+public class Ex0504 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		/**
+		 * 선형검색
+		 * 직선으로 늘어선 배열에서 원하는 키값을 가진 요소를 만날때까지 앞에서부터 요소를 검색하는 알고리즘
+		 * 이진검색
+		 */
+	}
+
+}

@@ -1,0 +1,32 @@
+package codingTest.ct.week05;
+
+import java.util.Enumeration;
+import java.util.Scanner;
+
+import javax.swing.tree.TreeNode;
+
+public class Ex0507 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		
+	}
+	/**
+	 * 배열 - 부모객체 연결 - 체크 여부
+	 * 리프인지 아닌지 
+	 */
+	//삭제
+	static void remove(int idx) {
+		
+	}
+	//리프로드 갯수
+	static int leafCount() {
+		
+	}
+	//리프로드 확인
+	static boolean isLeaf(int idx) {
+		
+	}
+}
