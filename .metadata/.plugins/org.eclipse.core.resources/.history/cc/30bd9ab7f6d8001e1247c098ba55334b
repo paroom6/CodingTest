@@ -1,0 +1,20 @@
+package codingTest.ct.week05;
+
+import java.util.Scanner;
+
+public class Ex0508 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		/**
+		 * 정렬
+		 * -교환 
+		 * -선택 
+		 * -삽입
+		 */
+		
+		Scanner sc = new Scanner(System.in);
+		
+	}
+
+}

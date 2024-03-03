@@ -1,0 +1,10 @@
+package codingTest.ct.week05;
+
+public class Ex0513 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x[] = {6, 4, 8, 3, 1, 9, 7};
+	}
+
+}
